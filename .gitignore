@@ -1,0 +1,18 @@
+# Virtual Environment (Very important to ignore)
+.venv/
+venv/
+env/
+bin/
+lib/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+tempCodeRunnerFile.py
