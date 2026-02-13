@@ -111,6 +111,6 @@ while cap.isOpened():
 
     cv2.imshow('Modern AI Trainer', frame)
     if cv2.waitKey(1) & 0xFF == ord('q'): break
-
+# hello world!
 cap.release()
 cv2.destroyAllWindows()
